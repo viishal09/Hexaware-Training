@@ -1,0 +1,5 @@
+host = localhost
+database = bankingsystem
+user = root
+password = root
+port = 3306
